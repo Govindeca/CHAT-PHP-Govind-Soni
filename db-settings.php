@@ -1,10 +1,10 @@
 <?php
 
 //Development Database Information
-$db_host = "localhost"; //Host address (most likely localhost)
-$db_name = "customermanager"; //Name of Database
-$db_user = "root"; //Name of database user
-$db_pass = ""; //Password for database user
+$db_host = "us-cdbr-iron-east-05.cleardb.net"; //Host address (most likely localhost)
+$db_name = "b6c2f3525f9d9f"; //Name of Database
+$db_user = "b6c2f3525f9d9f"; //Name of database user
+$db_pass = "97c17725"; //Password for database user
 $db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
 
