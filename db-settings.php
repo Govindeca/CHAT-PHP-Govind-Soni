@@ -2,9 +2,9 @@
 
 //Development Database Information
 $db_host = "us-cdbr-iron-east-05.cleardb.net"; //Host address (most likely localhost)
-$db_name = "heroku_0222d2a33858b56"; //Name of Database
-$db_user = "b6c2f3525f9d9f"; //Name of database user
-$db_pass = "97c17725"; //Password for database user
+$db_name = "heroku_2c47195ff03b25e"; //Name of Database
+$db_user = "bf9a02bf021ab6"; //Name of database user
+$db_pass = "dba735bd"; //Password for database user
 $db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
 
